@@ -131,6 +131,9 @@
   <ItemGroup>
     <ClCompile Include="calc.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="プログラム実力テスト概要.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

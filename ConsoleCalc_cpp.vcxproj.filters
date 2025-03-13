@@ -19,4 +19,7 @@
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="プログラム実力テスト概要.txt" />
+  </ItemGroup>
 </Project>
